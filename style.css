@@ -156,6 +156,7 @@ h1, h2, h3, p {
   .character {
     height: 100px; /* Уменьшенное изображение персонажа */
     margin-left: -20px; /* Зсув вліво */
+    z-index: 1;
   }
 }
 .timer {
@@ -172,7 +173,7 @@ h1, h2, h3, p {
 }
 .banner-button {
   position: fixed;
-  margin-top: 650px;
+  margin-top: 50px;
   padding: 10px 20px;
   background-color: #ffffff18;
   color: white;

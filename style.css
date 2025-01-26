@@ -27,6 +27,7 @@ body {
   position: relative;
   margin-top: 20px;
 }
+
 .name {
   padding: 20px;
   border-radius: 15px;
@@ -38,6 +39,7 @@ body {
   position: relative;
   line-height: 1.5; /* Для лучшей читаемости текста */
 }
+
 .card {
   background-color: #9900ff;
   padding: 20px;

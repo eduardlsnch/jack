@@ -28,18 +28,6 @@ body {
   margin-top: 20px;
 }
 
-.name {
-  padding: 20px;
-  border-radius: 15px;
-  margin-top: -240px;
-  font-size: 18px;
-  color: white;
-  text-align: center;
-  box-shadow: 0 5px 15px rgb(255, 255, 255, 0.4);
-  position: relative;
-  line-height: 1.5; /* Для лучшей читаемости текста */
-}
-
 .card {
   background-color: #9900ff;
   padding: 20px;
